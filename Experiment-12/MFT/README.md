@@ -2,7 +2,7 @@
 ![Program file](MFT.py)
 
 # Excepted output
-![Excepted output](ExceptedOutput.png)
+![Excepted output](ExpectedOutput.png)
 
 # Executed output
 ![Executed output](ExecutedOutput.png)
