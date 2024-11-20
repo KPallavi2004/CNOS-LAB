@@ -1,5 +1,5 @@
 # program file
-![program file](Program.png)
+![program file](producer-consumer problem using semapphores.py)
 
 # sample output
 ![Sample Output](SampleOutput.png)
