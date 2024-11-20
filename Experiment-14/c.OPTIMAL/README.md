@@ -1,8 +1,8 @@
 # program file
 ![program file](OPTIMAL.py)
 
-# sample output
+# Program
 ![Program](Program.png)
 
-# tested output
+# Executed output
 ![Program output](ExecutedOutput.png)
