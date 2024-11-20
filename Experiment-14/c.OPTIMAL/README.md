@@ -2,7 +2,7 @@
 ![program file](OPTIMAL.py)
 
 # sample output
-![sample output](Program.png)
+![Program](Program.png)
 
 # tested output
-![tested output](ExecutedOutput.png)
+![Program output](ExecutedOutput.png)
