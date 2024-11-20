@@ -1,5 +1,5 @@
 # program file
-![program file](Program.py)
+![program file](Program.png)
 
 # sample output
 ![Sample Output](SampleOutput.png)
